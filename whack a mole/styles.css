@@ -1,0 +1,17 @@
+.pole {
+	width: 492px;
+	height: 492px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.ctverecek {
+	height: 160;
+	width: 160px;
+	border: solid black 2px;
+}
+
+.krtek {
+	background-image: url("krtek.jpg");
+	background-size: cover;
+}
